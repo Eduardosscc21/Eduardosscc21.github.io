@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jose Eduardo Silva Canizales
-title: Estudiante de ingenieria en informatica
+title: Estudiante de ingeniería en informática
 email: jose.silva5168@alumnos.udg.mx
 website: https://github.com/Eduardosscc21/Eduardosscc21.github.io
 
@@ -23,19 +23,19 @@ youtube_username: N/A
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  - title: itsgoingto.be
+    icon: fas fa-globe
+    url: https://www.itsgoingto.be
 
 # About Section
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hola mi nombre es eduardo soy estudiante de ingenieria en informatica en la udg, tengo algo de experiencia como desarrollador backend y frontend. 
-  En lo que soy mejor es : <mark>durmiendo </mark> y <mark>comiendo Pizza</mark>
+about_content: |
+  Hola, mi nombre es Eduardo. Soy estudiante de ingeniería en informática en la UDG, y tengo experiencia como desarrollador backend y frontend.
+  Lo que mejor sé hacer es: <mark>durmiendo</mark> y <mark>comiendo pizza</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Super awesome project
@@ -45,8 +45,8 @@ content:
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: The Boring Company
@@ -58,70 +58,70 @@ content:
     layout: list
     content:
       - layout: left
-        title: Centro Universitario de Ciencias Exactas e Ingenierías.
+        title: Centro Universitario de Ciencias Exactas e Ingenierías
         caption: 2021 - presente
         sub_title: Ingeniería en informática
         quote: >
           El Centro Universitario de Ciencias Exactas e Ingenierías es la división de la Universidad de Guadalajara en Jalisco, México, destinada a la educación superior relacionada con los campos de ingenierías, ciencias físicas, químicas y matemáticas.
         description: |
-          Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
+          Durante mi estancia en CUCEI, he aprendido diversos conocimientos como matemáticas discretas, planeación de proyectos y he ido desarrollando habilidades de Full Stack.
 
-          Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
+          Además, como complemento a mi educación, he tomado diversos cursos, como:
         - layout: top-middle
-            title: Cloud Core
-            image: /images/cloud-core.png
-            image_alt: Cloud Core
-            image_title: Cloud Core
+          title: Cloud Core
+          image: /images/cloud-core.png
+          image_alt: Cloud Core
+          image_title: Cloud Core
         - layout: top-middle
-            title: Advanced Kubernetes Operators
-            image: /images/advanced-kubernetes-operators.png
-            image_alt: Advanced Kubernetes Operators
-            image_title: Advanced Kubernetes Operators
+          title: Advanced Kubernetes Operators
+          image: /images/advanced-kubernetes-operators.png
+          image_alt: Advanced Kubernetes Operators
+          image_title: Advanced Kubernetes Operators
         - layout: top-middle
-            title: Containers Kubernetes Essentials
-            image: /images/containers-kubernetes-essentials.png
-            image_alt: Containers Kubernetes Essentials
-            image_title: Containers Kubernetes Essentials
+          title: Containers Kubernetes Essentials
+          image: /images/containers-kubernetes-essentials.png
+          image_alt: Containers Kubernetes Essentials
+          image_title: Containers Kubernetes Essentials
         - layout: top-middle
-            title: Data Science for Business Level 1
-            image: /images/data-science-for-business-level-1.png
-            image_alt: Data Science for Business Level 1
-            image_title: Data Science for Business Level 1
+          title: Data Science for Business Level 1
+          image: /images/data-science-for-business-level-1.png
+          image_alt: Data Science for Business Level 1
+          image_title: Data Science for Business Level 1
         - layout: top-middle
-            title: Data Science Foundations Level 1
-            image: /images/data-science-foundations-level-1.png
-            image_alt: Data Science Foundations Level 1
-            image_title: Data Science Foundations Level 1
+          title: Data Science Foundations Level 1
+          image: /images/data-science-foundations-level-1.png
+          image_alt: Data Science Foundations Level 1
+          image_title: Data Science Foundations Level 1
         - layout: top-middle
-            title: Data Science Methodologies
-            image: /images/data-science-methodologies.png
-            image_alt: Data Science Methodologies
-            image_title: Data Science Methodologies
+          title: Data Science Methodologies
+          image: /images/data-science-methodologies.png
+          image_alt: Data Science Methodologies
+          image_title: Data Science Methodologies
         - layout: top-middle
-            title: Data Science Tools
-            image: /images/data-science-tools.png
-            image_alt: Data Science Tools
-            image_title: Data Science Tools
+          title: Data Science Tools
+          image: /images/data-science-tools.png
+          image_alt: Data Science Tools
+          image_title: Data Science Tools
         - layout: top-middle
-            title: Docker Essentials: A Developer Introduction
-            image: /images/docker-essentials-a-developer-introduction.png
-            image_alt: Docker Essentials: A Developer Introduction
-            image_title: Docker Essentials: A Developer Introduction
+          title: Docker Essentials: A Developer Introduction
+          image: /images/docker-essentials-a-developer-introduction.png
+          image_alt: Docker Essentials: A Developer Introduction
+          image_title: Docker Essentials: A Developer Introduction
         - layout: top-middle
-            title: Intermediate Kubernetes Operators
-            image: /images/intermediate-kubernetes-operators.png
-            image_alt: Intermediate Kubernetes Operators
-            image_title: Intermediate Kubernetes Operators
+          title: Intermediate Kubernetes Operators
+          image: /images/intermediate-kubernetes-operators.png
+          image_alt: Intermediate Kubernetes Operators
+          image_title: Intermediate Kubernetes Operators
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: |
+      Junto a mi interés en redes y desarrollo de software, algunos de mis otros intereses y hobbies son:
+      - Jugar videojuegos
+      - Tejer
+      - [Convertirme en ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      ¡Mira esta imagen genial!
 
 # Footer
 footer_show_references: true
@@ -134,5 +134,6 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
+
 
