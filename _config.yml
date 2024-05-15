@@ -44,6 +44,8 @@ content:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
+        image: containers-kubernetes-essentials.png
+        image_alt: Containers Kubernetes Essentials
 
   - title: Experience
     layout: list
@@ -77,7 +79,13 @@ content:
       - [Convertirme en ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       ¡Mira algunos de mis certificados!
-    ![Cloud Core](cloud-core.png)
+      ![Containers Kubernetes Essentials](containers-kubernetes-essentials.png)
+      ![Data Science for Business Level 1](data-science-for-business-level-1.png)
+      ![Data Science Foundations Level 1](data-science-foundations-level-1.png)
+      ![Data Science Methodologies](data-science-methodologies.png)
+      ![Data Science Tools](data-science-tools.png)
+      ![Docker Essentials A Developer Introduction](docker-essentials-a-developer-introduction.png)
+      ![Intermediate Kubernetes Operators](intermediate-kubernetes-operators.png)
 
 # Footer
 footer_show_references: true
