@@ -81,20 +81,21 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Centro Universitario de Ciencias Exactas e Ingenierías.
-        caption: 2021 - presente
-        sub_title: Ingenieria en informatica 
-        quote: >
-          El Centro Universitario de Ciencias Exactas e Ingenierías es la división de la Universidad de Guadalajara en Jalisco, México, destinada a la educación superior relacionada con los campos de ingenierías, ciencias físicas, químicas y matemáticas.
-        description: | # this will include new lines to allow paragraphs
-          Durante mi estancia en cucei e aprendido diverso conocimientos tales como matematicas discretas, planeacion de proyecto y poco a poco he ido desarrollando habilidades de Full Stack.
+  - title: Education
+  layout: list
+  content:
+    - layout: left
+      title: Centro Universitario de Ciencias Exactas e Ingenierías.
+      caption: 2021 - presente
+      sub_title: Ingeniería en informática
+      quote: >
+        El Centro Universitario de Ciencias Exactas e Ingenierías es la división de la Universidad de Guadalajara en Jalisco, México, destinada a la educación superior relacionada con los campos de ingenierías, ciencias físicas, químicas y matemáticas.
+      description: |
+        Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
 
-          Por otra parte como complemento a mi educacion he tomado diversos cursos tales como:
-        data-sciencie-tools: images/data-science-tools.png
+        Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
+      data-science-tools: images/data-science-tools.png
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
