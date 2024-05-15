@@ -16,36 +16,18 @@ darkmode: false
 
 # Social links
 twitter_username: N/A
-github_username:  Eduardosscc21
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+github_username: Eduardosscc21
 instagram_username: N/A
 linkedin_username: N/A
-# xing_username: jekyll
-# pinterest_username: jekyll
 youtube_username: N/A
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola mi nombre es eduardo soy estudiante de ingenieria en informatica en la udg, tengo algo de experiencia como desarrollador backend y frontend. 
@@ -58,16 +40,10 @@ content:
       - layout: top-middle
         title: Super awesome project
         link: github.com/sproogen
-        # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        description: | # this will include new lines to allow paragraphs
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,30 +51,22 @@ content:
       - layout: left
         title: The Boring Company
         link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
-        quote: >
-        description: | # this will include new lines to allow paragraphs
 
   - title: Education
-  layout: list
-  content:
-    - layout: left
-      title: Centro Universitario de Ciencias Exactas e Ingenierías.
-      caption: 2021 - presente
-      sub_title: Ingeniería en informática
-      quote: >
-        El Centro Universitario de Ciencias Exactas e Ingenierías es la división de la Universidad de Guadalajara en Jalisco, México, destinada a la educación superior relacionada con los campos de ingenierías, ciencias físicas, químicas y matemáticas.
-      description: |
-        Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
+    layout: list
+    content:
+      - layout: left
+        title: Centro Universitario de Ciencias Exactas e Ingenierías.
+        caption: 2021 - presente
+        sub_title: Ingeniería en informática
+        quote: >
+          El Centro Universitario de Ciencias Exactas e Ingenierías es la división de la Universidad de Guadalajara en Jalisco, México, destinada a la educación superior relacionada con los campos de ingenierías, ciencias físicas, químicas y matemáticas.
+        description: |
+          Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
 
-        Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
-
-      ![Cloud Core](cloud-core.png "Cloud Core")
-
-    
-
+          Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
 
   - title: A Little More About Me
     layout: text
@@ -109,11 +77,10 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Cloud Core](/images/cloud-core.png "Cloud Core")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -124,3 +91,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
