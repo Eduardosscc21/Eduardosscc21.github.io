@@ -94,7 +94,9 @@ content:
         Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
 
         Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
-      data-science-tools: images/data-science-tools.png
+    - layout: center
+      image_path: images/data-science-tools.png
+
 
   - title: A Little More About Me
     layout: text
