@@ -67,47 +67,47 @@ content:
           Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
 
           Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
-          - layout: top-middle
+        - layout: top-middle
             title: Cloud Core
             image: /images/cloud-core.png
             image_alt: Cloud Core
             image_title: Cloud Core
-          - layout: top-middle
+        - layout: top-middle
             title: Advanced Kubernetes Operators
             image: /images/advanced-kubernetes-operators.png
             image_alt: Advanced Kubernetes Operators
             image_title: Advanced Kubernetes Operators
-          - layout: top-middle
+        - layout: top-middle
             title: Containers Kubernetes Essentials
             image: /images/containers-kubernetes-essentials.png
             image_alt: Containers Kubernetes Essentials
             image_title: Containers Kubernetes Essentials
-          - layout: top-middle
+        - layout: top-middle
             title: Data Science for Business Level 1
             image: /images/data-science-for-business-level-1.png
             image_alt: Data Science for Business Level 1
             image_title: Data Science for Business Level 1
-          - layout: top-middle
+        - layout: top-middle
             title: Data Science Foundations Level 1
             image: /images/data-science-foundations-level-1.png
             image_alt: Data Science Foundations Level 1
             image_title: Data Science Foundations Level 1
-          - layout: top-middle
+        - layout: top-middle
             title: Data Science Methodologies
             image: /images/data-science-methodologies.png
             image_alt: Data Science Methodologies
             image_title: Data Science Methodologies
-          - layout: top-middle
+        - layout: top-middle
             title: Data Science Tools
             image: /images/data-science-tools.png
             image_alt: Data Science Tools
             image_title: Data Science Tools
-          - layout: top-middle
+        - layout: top-middle
             title: Docker Essentials: A Developer Introduction
             image: /images/docker-essentials-a-developer-introduction.png
             image_alt: Docker Essentials: A Developer Introduction
             image_title: Docker Essentials: A Developer Introduction
-          - layout: top-middle
+        - layout: top-middle
             title: Intermediate Kubernetes Operators
             image: /images/intermediate-kubernetes-operators.png
             image_alt: Intermediate Kubernetes Operators
