@@ -95,7 +95,7 @@ content:
 
         Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
     - layout: center
-      image_path: images/containers-kubernetes-essentials.png
+      about_containers1_image: images/profile.jpg: images/containers-kubernetes-essentials.png
 
 
   - title: A Little More About Me
