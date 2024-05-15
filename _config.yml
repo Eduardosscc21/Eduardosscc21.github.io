@@ -54,7 +54,7 @@ content:
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
 
-  - title: Education
+    - title: Education
     layout: list
     content:
       - layout: left
@@ -67,7 +67,12 @@ content:
           Durante mi estancia en CUCEI, he aprendido diversos conocimientos tales como matemáticas discretas, planeación de proyectos y poco a poco he ido desarrollando habilidades de Full Stack.
 
           Por otra parte, como complemento a mi educación, he tomado diversos cursos, tales como:
-
+      - layout: top-middle
+        title: Cloud Core
+        image: /images/cloud-core.png
+        image_alt: Cloud Core
+        image_title: Cloud Core
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
