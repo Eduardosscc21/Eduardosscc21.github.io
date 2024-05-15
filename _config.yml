@@ -53,8 +53,8 @@ content:
       - layout: left
         title: The Boring Company
         link: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: aun no tengo experiancia laboral destacada
+        caption: 
 
   - title: Education
     layout: list
@@ -68,16 +68,14 @@ content:
         description: |
           Durante mi estancia en CUCEI, he aprendido diversos conocimientos como matemáticas discretas, planeación de proyectos y he ido desarrollando habilidades de Full Stack.
 
-          Además, como complemento a mi educación, he tomado diversos cursos, como:
+          Además, como complemento a mi educación, he tomado diversos cursos de los cuales obtuve certificados que avalan los conocimientos.
 
-  - title: A Little More About Me
+  - title: Algo mas sobre mi 
     layout: text
     content: |
       Junto a mi interés en redes y desarrollo de software, algunos de mis otros intereses y hobbies son:
       - Jugar videojuegos
-      - Tejer
-      - [Convertirme en ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+      - ver podcast
       ¡Mira algunos de mis certificados!
       ![Containers Kubernetes Essentials](containers-kubernetes-essentials.png)
       ![Data Science for Business Level 1](data-science-for-business-level-1.png)
