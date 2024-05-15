@@ -78,6 +78,19 @@ content:
 
       ¡Mira esta imagen genial!
 
+  - title: Additional Images
+    layout: grid
+    content:
+      - image: images/advanced-kubernetes-operators.png
+      - image: images/cloud-core.png
+      - image: images/containers-kubernetes-essentials.png
+      - image: images/data-science-for-business-level-1.png
+      - image: images/data-science-foundations-level-1.png
+      - image: images/data-science-methodologies.png
+      - image: images/data-science-tools.png
+      - image: images/docker-essentials-a-developer-introduction.png
+      - image: images/intermediate-kubernetes-operators.png
+
 # Footer
 footer_show_references: true
 
@@ -90,8 +103,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-
-
-
-
 
